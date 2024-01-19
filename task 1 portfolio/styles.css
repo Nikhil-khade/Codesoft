@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #dcdcdc;
+}
+
+header {
+    padding: 20px;
+    background-color: #e0e8e9;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+ section, footer {
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    
+}
+
+img {
+    margin-bottom: 20px;
+    
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    color: #555;
+}
